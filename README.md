@@ -1,1 +1,1 @@
-# APPL-Capstone-Project
+# APPL-Data-Science-Capstone-Project
